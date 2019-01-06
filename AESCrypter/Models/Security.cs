@@ -1,12 +1,4 @@
-﻿/**
-/**
- * -----创建--------------------
- * Author：Zeoun
- * CreatedBy：2018/1/2 Tuesday 8:28:24
- * Description：
- * */
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 using System.Linq;
